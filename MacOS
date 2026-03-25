@@ -1,0 +1,8 @@
+Go to the folder where you downloaded, then install it into Applications 
+
+
+Use the permission command by going to Terminal : 
+
+sudo xattr -r -d com.apple.quarantine /Applications/GemLogin.app  # for GemPhoneFarm is switch to /GemPhoneFarm.app
+Password:  # <== Enter your Mac password (characters will not be visible)
+MacBook-Pro:~ user$  # <== Completed
